@@ -1,0 +1,69 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Studio CMS",
+    "description": "",
+    "home_page_url": "https://studiocms.github.io/pages",
+    "feed_url": "https://studiocms.github.io/pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "studiocms"
+    },
+    "items": [
+        {
+            "id": "https://studiocms.github.io/pages/fotografia-produktowa.html",
+            "url": "https://studiocms.github.io/pages/fotografia-produktowa.html",
+            "title": "Fotografia produktowa",
+            "summary": "Oferujemy swoje usługi w zakresie fotografii produktowej. W cenę usługi wliczone jest: wykonie fotografii przedmiotu na jednolitym tle, obróbka komputerowa, retusz przedmiotu (usuwanie&hellip;",
+            "content_html": "<p><strong>Oferujemy swoje usługi w zakresie fotografii produktowej. W cenę usługi wliczone jest:</strong>\n<ul>\n \t\n<li style=\"font-size: 20px;\">wykonie fotografii przedmiotu na jednolitym tle,</li>\n<li style=\"font-size: 20px;\">obróbka komputerowa, retusz przedmiotu (usuwanie zabrudzeń i rys, wycinanie z tła itp.)</li>\n</ul>\n<p>Jeżeli potrzebujesz wsparcia w prowadzeniu sklepu internetowego lub jego rozbudowy zapoznaj się znaszą <a style=\"letter-spacing: 0px; background-color: #ffffff; font-size: 20px;\" href=\"http://51.68.229.244/index.php/oferta/\" target=\"_blank\" rel=\"noopener\">ofertą informatyczną</a>.\t\t\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"http://51.68.229.244/wp-content/uploads/2018/10/kubek.jpg\" data-elementor-open-lightbox=\"default\">\n\t\t\t\t\t\t\t<img loading=\"lazy\" width=\"710\" height=\"474\" src=\"https://studiocms.github.io/pages/media/posts/4/kubek-1024x683.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://studiocms.github.io/pages/media/posts/4/responsive/kubek-1024x683-xs.jpg 300w ,https://studiocms.github.io/pages/media/posts/4/responsive/kubek-1024x683-sm.jpg 480w ,https://studiocms.github.io/pages/media/posts/4/responsive/kubek-1024x683-md.jpg 768w ,https://studiocms.github.io/pages/media/posts/4/responsive/kubek-1024x683-lg.jpg 1024w ,https://studiocms.github.io/pages/media/posts/4/responsive/kubek-1024x683-xl.jpg 1360w ,https://studiocms.github.io/pages/media/posts/4/responsive/kubek-1024x683-2xl.jpg 1600w\"  alt=\"\" srcset=\"https://studiocms.github.io/pages/media/posts/4/kubek-1024x683.jpg 1024w, http://51.68.229.244/wp-content/uploads/2018/10/kubek-300x200.jpg 300w, http://51.68.229.244/wp-content/uploads/2018/10/kubek-768x512.jpg 768w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"http://51.68.229.244/wp-content/uploads/2018/10/zegarek.jpg\" data-elementor-open-lightbox=\"default\">\n\t\t\t\t\t\t\t<img loading=\"lazy\" width=\"710\" height=\"474\" src=\"https://studiocms.github.io/pages/media/posts/4/zegarek-1024x683.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://studiocms.github.io/pages/media/posts/4/responsive/zegarek-1024x683-xs.jpg 300w ,https://studiocms.github.io/pages/media/posts/4/responsive/zegarek-1024x683-sm.jpg 480w ,https://studiocms.github.io/pages/media/posts/4/responsive/zegarek-1024x683-md.jpg 768w ,https://studiocms.github.io/pages/media/posts/4/responsive/zegarek-1024x683-lg.jpg 1024w ,https://studiocms.github.io/pages/media/posts/4/responsive/zegarek-1024x683-xl.jpg 1360w ,https://studiocms.github.io/pages/media/posts/4/responsive/zegarek-1024x683-2xl.jpg 1600w\"  alt=\"\" srcset=\"https://studiocms.github.io/pages/media/posts/4/zegarek-1024x683.jpg 1024w, http://51.68.229.244/wp-content/uploads/2018/10/zegarek-300x200.jpg 300w, http://51.68.229.244/wp-content/uploads/2018/10/zegarek-768x512.jpg 768w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"http://51.68.229.244/wp-content/uploads/2018/10/melodyka.jpg\" data-elementor-open-lightbox=\"default\">\n\t\t\t\t\t\t\t<img loading=\"lazy\" width=\"710\" height=\"474\" src=\"https://studiocms.github.io/pages/media/posts/4/melodyka-1024x683.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://studiocms.github.io/pages/media/posts/4/responsive/melodyka-1024x683-xs.jpg 300w ,https://studiocms.github.io/pages/media/posts/4/responsive/melodyka-1024x683-sm.jpg 480w ,https://studiocms.github.io/pages/media/posts/4/responsive/melodyka-1024x683-md.jpg 768w ,https://studiocms.github.io/pages/media/posts/4/responsive/melodyka-1024x683-lg.jpg 1024w ,https://studiocms.github.io/pages/media/posts/4/responsive/melodyka-1024x683-xl.jpg 1360w ,https://studiocms.github.io/pages/media/posts/4/responsive/melodyka-1024x683-2xl.jpg 1600w\"  alt=\"\" srcset=\"https://studiocms.github.io/pages/media/posts/4/melodyka-1024x683.jpg 1024w, http://51.68.229.244/wp-content/uploads/2018/10/melodyka-300x200.jpg 300w, http://51.68.229.244/wp-content/uploads/2018/10/melodyka-768x512.jpg 768w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t\t</a></p>\n",
+            "author": {
+                "name": "studiocms"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-02T17:49:52+02:00",
+            "date_modified": "2021-10-09T17:40:50+02:00"
+        },
+        {
+            "id": "https://studiocms.github.io/pages/kontakt.html",
+            "url": "https://studiocms.github.io/pages/kontakt.html",
+            "title": "Kontakt",
+            "summary": "Adres: Warszawa, Siedlce Telefon komórkowy: 508546482 stud.cms@gmail.com Imię i nazwisko (wymagane) Adres email (wymagane) Temat Treść wiadomości ",
+            "content_html": "<p style=\"margin-bottom: 10px;\">Adres: </p>\n<p style=\"margin-bottom: 10px;\">Warszawa, Siedlce</p>\n<p style=\"margin-bottom: 10px;\"><span style=\"color: #6e6e6e; font-family: Arial, Helvetica, sans-serif;\"> </span></p>\n<p style=\"margin-bottom: 10px;\">Telefon komórkowy: </p>\n<p style=\"margin-bottom: 10px;\">508546482</p>\n<p style=\"margin-bottom: 10px;\"><span style=\"color: #6e6e6e; font-family: Arial, Helvetica, sans-serif;\">stud.cms@gmail.com</span></p>\n<p style=\"margin-bottom: 10px; color: #6e6e6e; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 400; white-space: normal;\"> </p>\n<p><a name=\"formularz\"></a></p>\n<h3>Masz pytanie?</h3>\n<form action=\"/studio/wp-admin/admin-ajax.php#wpcf7-f17-o1\" method=\"post\" novalidate=\"novalidate\"><input name=\"_wpcf7\" type=\"hidden\" value=\"17\"> <input name=\"_wpcf7_version\" type=\"hidden\" value=\"5.0.2\"> <input name=\"_wpcf7_locale\" type=\"hidden\" value=\"pl_PL\"> <input name=\"_wpcf7_unit_tag\" type=\"hidden\" value=\"wpcf7-f17-o1\"> <input name=\"_wpcf7_container_post\" type=\"hidden\" value=\"0\"></form>\n<p><label> Imię i nazwisko (wymagane)<br><input name=\"your-name\" size=\"40\" type=\"text\" value=\"\" aria-required=\"true\" aria-invalid=\"false\"> </label></p>\n<p><label> Adres email (wymagane)<br><input name=\"your-email\" size=\"40\" type=\"email\" value=\"\" aria-required=\"true\" aria-invalid=\"false\"> </label></p>\n<p><label> Temat<br><input name=\"your-subject\" size=\"40\" type=\"text\" value=\"\" aria-invalid=\"false\"> </label></p>\n<p><label> Treść wiadomości<br><textarea cols=\"40\" name=\"your-message\" rows=\"10\" aria-invalid=\"false\"></textarea> </label></p>\n<p><input type=\"submit\" value=\"Wyślij\"></p>\n<p> </p>",
+            "author": {
+                "name": "studiocms"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-06-02T21:17:15+02:00",
+            "date_modified": "2021-10-11T21:44:51+02:00"
+        },
+        {
+            "id": "https://studiocms.github.io/pages/startowa.html",
+            "url": "https://studiocms.github.io/pages/startowa.html",
+            "title": "Tworzenie stron internetowych",
+            "summary": "Tworzymy strony w oparciu o skrypty wordpress bootstrap joomla Fotografia produktowa packshot , grafika komputerowa dla Twojego sklepu",
+            "content_html": "<h3>Tworzymy strony w oparciu o skrypty</h3>\n<h3>wordpress</h3>\n<h3>bootstrap</h3>\n<h3>joomla</h3>\n<p>Fotografia produktowa packshot , grafika komputerowa dla Twojego sklepu</p>",
+            "author": {
+                "name": "studiocms"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-06-02T20:52:24+02:00",
+            "date_modified": "2021-10-11T21:44:45+02:00"
+        },
+        {
+            "id": "https://studiocms.github.io/pages/oferta.html",
+            "url": "https://studiocms.github.io/pages/oferta.html",
+            "title": "Oferta",
+            "summary": "Zajmujemy się tworzeniem stron internetowych w oparciu o popularne systemy zarządzania treścią Joomla i Wordpress. Nasza oferta zawiera: W razie jakichkolwiek pytań zapraszam&hellip;",
+            "content_html": "<p>Zajmujemy się tworzeniem stron internetowych w oparciu o popularne systemy zarządzania treścią Joomla i Wordpress.</p>\n<p>Nasza oferta zawiera:</p>\n<ul>\n<li>projektowanie stron w systemach CMS (Wordpress, Joomla),</li>\n<li>wdrażanie, instalacja i konfiguracja systemów CMS,</li>\n<li>instalacja, dostosowywanie i konfiguracja komponentów oraz rozszerzeń,</li>\n<li>modernizacja i aktualizowanie już działających stron, poprawa funkcjonalności,</li>\n<li>aktualizacje stron, opieka i pomoc techniczna,</li>\n<li>modernizacje stron, przebudowa,</li>\n<li>administracja – stała opieka nad stroną,</li>\n<li>zabezpieczenie systemów CMS,</li>\n<li>obróbka graficzna w Photoshop elementów graficznych na stronie,</li>\n<li>wykonywanie kopii zapasowych, co zapewni przywrócenie strony w razie nieprzewidzianych okoliczności,</li>\n<li>konfiguracja (Wordpress, Joomla) do pracy w systemie wielojęzycznym,</li>\n<li>tworzenie dostępnych stron (dodatkowe funkcjonalności dla osób niepełnosprawnych tj.: zmiana kontrastu, wielkości czcionki itp.),</li>\n<li>dostosowanie RODO / GDPR ( zgoda na używanie cookies,  dopisanie klauzul informacyjnych przy formularzach, wszędzie tam, gdzie zbierane są dane osobowe),</li>\n<li> wdrożenie certyfikatu SSL,</li>\n<li><a href=\"http://51.68.229.244/index.php/fotografia-produktowa/\" target=\"_blank\" rel=\"noopener noreferrer\">fotografia produktowa</a> (packshot, zdjęcia do sklepu internetowego, Allegro).</li>\n<li>Moodle (konfiguracja i administrowanie platform e-learningowych)</li>\n<li><a href=\"http://studiocms.prosta.pl/woocomm/\" target=\"_blank\" rel=\"noopener noreferrer\">WooCommerce</a> (demo sklepu internetowego)</li>\n<li>Szablon biznesowy (<a href=\"http://sprzatamy.pl/\" target=\"_blank\" rel=\"noopener noreferrer\">przykładowa realizacja</a>)</li>\n<li>Szablon dla fotografa</li>\n</ul>\n<p>W razie jakichkolwiek pytań zapraszam do kontaktu.</p>\n<p><a href=\"http://www.studiocms.pl/\">@ Studio CMS</a></p>",
+            "author": {
+                "name": "studiocms"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-05-30T14:41:01+02:00",
+            "date_modified": "2021-10-11T20:32:28+02:00"
+        }
+    ]
+}
